@@ -13,7 +13,7 @@
 ---
 <div align=center>
 
-<img src=https://github.com/AndreLuiz-Cardoso/42_badges_utils/blob/main/ft_printfm.png alt=cado-car's 42Project Badge/>
+<img src=https://github.com/AndreLuiz-Cardoso/42_badges_utils/blob/main/ft_printfm.png?raw=true alt=cado-car's 42Project Badge/>
 </div>
 
 ---
@@ -22,7 +22,6 @@
 Mandatory
 </h3>
 
-<h4> Format Specifiers </h4>
 The ft_printf function supports a wide range of format specifiers, allowing you to format and print various types of data. Some of the commonly used format specifiers include:
 <br/>
 <br/>
@@ -64,11 +63,12 @@ Main functions
 - [`print_pointer.c`](print_pointer.c)
 - [`print_string.c`](print_string.c)
 - [`print_unsigned.c`](print_unsigned.c)
-
+<div align="center">
 <h2> How it Works </h2>
+</div>
 <br/>
 The ft_printf function follows a systematic process to handle the provided format string and corresponding arguments:
-
+<br/>
 Parse the format string and identify format specifiers, flags, width, precision, and modifiers.
 Retrieve the arguments based on the format specifiers and perform necessary data conversions.
 Generate the formatted output according to the specified format and desired appearance.
