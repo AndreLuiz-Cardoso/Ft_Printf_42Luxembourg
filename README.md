@@ -11,9 +11,8 @@
 	The <b>printf</b> function is one of the most versatile and well-known functions in the C language. From a testing aid to tabulation method, printf is a very powerful and important tool in every dev's kit. This project aims to recreate the behaviour of the original printf, including its basic error management, some of its flags, minimum field width stipulation and most of its basic conversions.
 
 ---
-<div align=center>
-
-<img src=https://github.com/AndreLuiz-Cardoso/42_badges_utils/blob/main/ft_printfm.png?raw=true alt=cado-car's 42Project Badge/>
+<div align="center">
+    <img src="https://github.com/AndreLuiz-Cardoso/42_badges_utils/blob/main/ft_printfm.png?raw=true" alt="cado-car's 42Project Badge"/>
 </div>
 
 ---
