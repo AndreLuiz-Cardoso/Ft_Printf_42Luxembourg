@@ -42,10 +42,11 @@ You can specify the width and precision of the output using optional flags in th
 
 <br/>
 ---
-
+<div align="center">
 <h2>
 The project
 </h2>
+</div>
 
 ### Implementation files
 	
