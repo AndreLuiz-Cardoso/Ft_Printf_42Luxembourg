@@ -2,10 +2,6 @@
 	<b>ft_printf</b>
 </h1>
 
-<h2 align=center>
-	 <i>42cursus' project #3</i>
-</h2>
-
 <p align=center>
 	Welcome to the ft_printf project! This project is part of the curriculum at 42 Luxembourg and aims to develop your understanding of variadic functions and string formatting in the C programming language. ft_printf is a custom implementation of the printf function, which allows for formatted output to the standard output stream.
 	The <b>printf</b> function is one of the most versatile and well-known functions in the C language. From a testing aid to tabulation method, printf is a very powerful and important tool in every dev's kit. This project aims to recreate the behaviour of the original printf, including its basic error management, some of its flags, minimum field width stipulation and most of its basic conversions.
